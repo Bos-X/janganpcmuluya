@@ -60,16 +60,16 @@ UN_BAN_COMMAND = get_config("UN_BAN_COMMAND", "unban")
 START_COMMAND = get_config("START_COMMAND", "start")
 # default message in-case of None types
 DEFAULT_START_TEXT = (
-    "Hi. ☺️\n"
-    "Thank you for using me 😬\n\n"
-    "This is an Open Source Project available on "
-    "https://github.com/SpEcHIDe/NoPMsBot\n\n\n"
-    "If you are the owner of this bot, "
-    "and are seeing this message 🤦‍♂️, "
-    "means that you have not set up "
-    "the ENVironment variables properly "
-    "for the bot to function.\n\n\n"
-    "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+    "Hai. ☺️\n"
+    "Terima kasih telah pm kesini 🙄\n"
+    "Aku asisten dari @aestheticboyy2 \n"
+    "Jangan lupa untuk masuk channel ku @kumpulanbotku \n\n"
+    "╾─────────────────────╼\n"
+    "Silahkan ketik pesanmu di bawah \n"
+    "Saya mohon untuk tidak melakukan spam \n"
+    "Tunggu lah sampai tuanku membalas \n"
+    "Jangan lupa bersyukur dan tersenyum \n"
+    "╾─────────────────────╼"
 )
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = int(get_config(
@@ -80,10 +80,10 @@ START_OTHER_USERS_TEXT = int(get_config(
 ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
-        "i am online <b>master</b>\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "Saya telah aktif <b>tuanku</b>\n\n"
+        "Saya siap untuk membantumu kapan pun\n"
+        "Saya siap menampung semua pm untuk tuanku\n"
+        "─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇"
     )
 )
 # message to indicate,
@@ -92,10 +92,10 @@ ONLINE_CHECK_START_TEXT = get_config(
 DELETED_MESSAGES_NOTIFICATION_TEXT = get_config(
     "DELETED_MESSAGES_NOTIFICATION_TEXT",
     (
-        "this message was deleted\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "Pesan ini telah di hapus tuan\n\n"
+        "Saya senang bisa membantu tuan\n"
+        "Jangan lupa jaga kesehatannya"
+        "─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇"
     )
 )
 # IDEKWBYRW
@@ -107,7 +107,7 @@ DERP_USER_S_TEXT = get_config(
 IS_BLACK_LIST_ED_MESSAGE_TEXT = get_config(
     "IS_BLACK_LIST_ED_MESSAGE_TEXT",
     (
-        "You have been <b>banned</b> forever.\n\n"
+        "Kamu telah di <b>banned</b> selamanya.\n\n"
         "<u>Reason</u>: <code>{reason}</code>"
     )
 )
@@ -120,7 +120,7 @@ REASON_DE_LIMIT_ER = get_config(
 IS_UN_BANED_MESSAGE_TEXT = get_config(
     "IS_UN_BANED_MESSAGE_TEXT",
     (
-        "You have been <b>un-banned</b>.\n\n"
+        "Kamu telah di <b>un-banned</b>.\n\n"
         "<u>Reason</u>: <code>{reason}</code>"
     )
 )
