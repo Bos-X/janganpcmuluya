@@ -4,7 +4,7 @@ Program ini didistribusikan dengan harapan bermanfaat, tetapi TANPA JAMINAN APA 
 
 ## Demo RoBot
 
-- [@shriMADhaBot](https://telegram.dog/shriMADhaBot)
+- [Harry Potter](https://telegram.dog/HarryAsistenBot)
 
 - it is recommended to [use Telegram X](https://telegram.dog/UseTGx/15), to effectively use this Telegram RoBot. 
 There is an [ongoing issue](https://github.com/SpEcHiDe/NoPMsBot/issues/4) which makes, the use of [the official applications](https://telegram.dog/apps), cubersome for the effective utilization of this robot.
