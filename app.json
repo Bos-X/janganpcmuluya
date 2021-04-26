@@ -12,9 +12,9 @@
     "channel",
     "administrators"
   ],
-  "repository": "https://github.com/SpEcHIDe/NoPMsBot",
-  "website": "https://telegram.dog/SpEcHlDe",
-  "success_url": "https://t.me/SpEcHlDe/571",
+  "repository": "https://github.com/Bos-X/janganpcmuluya",
+  "website": "https://telegram.dog/aestheticboyy2",
+  "success_url": "https://t.me/aestheticboyy2",
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal"
