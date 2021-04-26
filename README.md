@@ -1,6 +1,6 @@
-# Telegram Relay Bot
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [COPYING](./COPYING) for more details.
+# janganpcmuluya
+</s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </ s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s> orang </s>
+Program ini didistribusikan dengan harapan bermanfaat, tetapi TANPA JAMINAN APA PUN; bahkan tanpa jaminan tersirat tentang DIPERDAGANGKAN atau KESESUAIAN UNTUK TUJUAN TERTENTU. Lihat [MENYALIN] (./COPYING) untuk lebih jelasnyaan.
 
 ## Demo RoBot
 
